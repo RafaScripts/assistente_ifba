@@ -1,7 +1,7 @@
 import threading
 import speech_recognition as sr
 from nltk import word_tokenize, corpus
-from .executate import exec_cmd_open, exec_cmd_close, suspend
+from src.executate import exec_cmd_open, exec_cmd_close, suspend
 import json
 
 LANGUAGE_CORPUS = "portuguese"

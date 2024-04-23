@@ -46,6 +46,10 @@ python -m unittest unit_tests/__tests__.py
 
 - Este projeto não foi ajustado para ser executado em sistemas Windows. Se você estiver usando Windows, pode ser necessário realizar ajustes adicionais para que o código funcione corretamente.
 
+https://youtu.be/80ooTQf6gwc
+
+video apresentando o codigo
+
 ---
 
 Este `README.md` fornece uma visão geral do projeto e orienta o usuário sobre como configurar e executar o código em sua própria máquina. Certifique-se de adaptar as instruções conforme necessário e incluir quaisquer detalhes adicionais que você ache relevantes para os usuários do seu projeto.
