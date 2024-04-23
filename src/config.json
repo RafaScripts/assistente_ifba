@@ -1,0 +1,27 @@
+{
+    "nome": "chaves",
+    "acoes": [
+        {
+            "nome": "abrir",
+            "objetos": [
+                "navegador",
+                "notas",
+                "monitor"
+            ]
+        },
+        {
+            "nome": "fechar",
+            "objetos": [
+                "navegador",
+                "notas",
+                "monitor"
+            ]
+        },
+        {
+            "nome": "acionar",
+            "objetos": [
+            "suspender"
+            ]
+        }
+    ]
+}
